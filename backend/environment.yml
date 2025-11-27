@@ -1,0 +1,13 @@
+name: chatbot-backend
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - tensorflow
+    - keras
+    - nltk
+    - numpy
+    - flask
+    - flask-cors
