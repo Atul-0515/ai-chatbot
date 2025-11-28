@@ -6,7 +6,6 @@ dependencies:
   - pip
   - pip:
     - tensorflow
-    - keras
     - nltk
     - numpy
     - flask
